@@ -299,6 +299,10 @@ section {
     color: #fff;
     padding-top: 1.5rem;
 }
+
+.education__container__box h3 a {
+    color: var(--orange);
+}
 .education__container__box h3 a:hover {
     font-size: 2.2rem;
     text-decoration: underline;
@@ -367,6 +371,14 @@ section {
     justify-content: center;
     color: #eee;
     font-size: 1.8rem;
+}
+
+.portfolio__footer a {
+    color: #fff;
+}
+
+.portfolio__footer a span {
+    color: var(--orange);
 }
 
 .portfolio__footer:hover {
